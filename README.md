@@ -1,2 +1,5 @@
 # OBFC
-Observer-biased fuzzy clustering (coming soon)
+Observer-biased fuzzy clustering 
+  - FCMFP
+  - GKFP (coming soon)
+  - GGFP
